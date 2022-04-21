@@ -39,7 +39,7 @@
     <div class="footer-spacer"></div>
     <footer id="footer">
       <!-- <div class="content has-text-centered"> -->
-          <p>Thanks for visiting! Check out my github repository <a style="text-decoration:underline;" href="https://github.com/BYUCS260/cp3.btpinnovations.com">here</a>!</p>
+          <p>Thanks for visiting! Check out my github repository <a style="text-decoration:underline;" href="https://github.com/btparker96/cp3.btpinnovations.com">here</a>!</p>
       <!-- </div> -->
     </footer>
     <!-- <Footer></Footer> -->
