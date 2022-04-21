@@ -68,7 +68,7 @@
         },
         methods: {
             inputNew() {
-                if (this.inputFactJoke.prompt != '' && this.inputFactJoke.answer != '' && this.inputFactJoke != '') {
+                if (this.inputFactJoke.prompt != '' && this.inputFactJoke.answer != '' && this.inputFactJoke.type != '') {
                     let input = {
                         prompt: '',
                         answer: '',
